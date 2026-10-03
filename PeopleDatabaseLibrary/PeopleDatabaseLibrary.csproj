@@ -4,6 +4,7 @@
     <TargetFramework>net10.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <Description>Reusable C#/.NET people database library with generated sample data and filtering.</Description>
   </PropertyGroup>
 
 </Project>
