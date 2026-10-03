@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="PeopleDatabaseApp/PeopleDatabaseApp.csproj" />
+  <Project Path="PeopleDatabaseLibrary/PeopleDatabaseLibrary.csproj" />
+</Solution>
